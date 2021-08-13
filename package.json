@@ -1,0 +1,16 @@
+{
+  "name": "aki-byspytype",
+  "version": "1.0.0",
+  "description": "a simple discord akinator made by @SpyType",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SpyType",
+  "license": "ISC",
+  "dependencies": {
+    "aki-api": "^6.0.5",
+    "discord.js": "^12.5.3",
+    "discord.js-akinator": "^2.1.0"
+  }
+}

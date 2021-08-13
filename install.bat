@@ -1,0 +1,1 @@
+npm i discord.js@12.5.3 aki-api discord.js-akinator
